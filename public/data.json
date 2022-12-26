@@ -1,0 +1,50 @@
+[
+  {
+    "id": 23,
+    "companyName": "Астра",
+    "humansCount": "2",
+    "adress": "Ленинский проспект 25",
+    "humans": [
+      {
+        "id": 3,
+        "name": "Владимир",
+        "surname": "Пранов",
+        "position": "Инженер"
+      },
+      {
+        "id": 4,
+        "name": "Аристарх",
+        "surname": "Рогов",
+        "position": "Админ"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "companyName": "Айти-Меда",
+    "humansCount": "1",
+    "adress": "Советский проспект 34",
+    "humans": [
+      {
+        "id": 5,
+        "name": "Святослав",
+        "surname": "Сапогов",
+        "position": "Инженер"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "companyName": "МедаЛаб",
+    "humansCount": "1",
+    "adress": "Озерова 34",
+    "humans": [
+      {
+        "id": 7,
+        "name": "Сергей",
+        "surname": "Жилин",
+        "position": "Back-end"
+      }
+    ]
+  }
+]
